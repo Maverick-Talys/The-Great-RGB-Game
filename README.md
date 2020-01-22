@@ -1,7 +1,7 @@
 ## Author : Mr.Maverick
 # The Great RGB Guessing Game
 
-<img src="imgs/homepage.png"
+<img src="imgs/homepage .png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
