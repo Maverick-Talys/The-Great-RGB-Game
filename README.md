@@ -1,2 +1,3 @@
-# The-Great-RGB-Game
-Guessing game
+# Color Game Project
+
+
